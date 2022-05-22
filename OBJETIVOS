@@ -12,7 +12,7 @@ pública compartida de la ciudad de Madrid a través del análisis de los datos 
 BiciMAD, publicados en el portal Open Data de la EMT Madrid, empresa encargada de la
 gestión del servicio.
 
-Toda la información recabada será relativa a los meses (  )
+Toda la información recabada será relativa a los meses ( abril 2017 hasta febrero 2018 y principios del 2020 )
 
 DESCRIPCION DE LOS DATOS
 ------------------------
@@ -49,7 +49,7 @@ VIAJES
 
 Para analizar los viajes hay que estudiar los datos idunplug_station, idunplug_base, idplug_base,travel_time.
 
-duracion del tiempo medio de los viajes
+duración del tiempo medio de los viajes
 
 cuantos viajes son de ida y vuelta, es decir del total de viajes realizados en un mes que porcentaje.
 
